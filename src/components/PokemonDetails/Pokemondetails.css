@@ -1,0 +1,21 @@
+.pokemon-detail{
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+.pokemon-image{
+    
+    margin: auto;
+    
+}
+.pokemon-height{
+    margin-top: 150px;
+
+
+}
+.link{
+    font-size: 50px;
+    text-decoration: none;
+    
+}
